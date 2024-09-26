@@ -1,2 +1,1 @@
-# myportfolio
-Web Dev
+# my-portfolio
